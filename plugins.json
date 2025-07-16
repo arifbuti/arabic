@@ -11,7 +11,7 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 1,
+        "version": 2,
         "internalName": "TopCinema",
         "url": "https://github.com/arifbuti/topcinema-plugin/raw/main/topcinema_built.cs3",
         "name": "TopCinema"
