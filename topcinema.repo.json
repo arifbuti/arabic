@@ -1,8 +1,0 @@
-{
-  "name": "TopCinema Repo",
-  "description": "CloudStream plugin for web6.topcinema.cam (أفلام ومسلسلات بث مباشر)",
-  "manifestVersion": 1,
-  "pluginLists": [
-    "https://gist.githubusercontent.com/arifbuti/GIST_ID/raw/plugins.json"
-  ]
-}
