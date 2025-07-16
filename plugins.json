@@ -3,7 +3,7 @@
     "id": "topcinema",
     "name": "TopCinema",
     "version": "1.0.0",
-    "url": "https://your-plugins-host.com/TopCinema.csaddon",
+    "url": "https://github.com/arifbuti/topcinema-plugin/blob/main/TopCinema.csaddon",
     "description": "إضافة بث مباشر من web6.topcinema.cam",
     "lang": "ar"
   }
