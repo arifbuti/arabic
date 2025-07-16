@@ -3,6 +3,6 @@
   "description": "CloudStream plugin for web6.topcinema.cam (أفلام ومسلسلات بث مباشر)",
   "manifestVersion": 1,
   "pluginLists": [
-    "https://github.com/arifbuti/topcinema-plugin/blob/main/plugins.json"
+    "https://gist.githubusercontent.com/arifbuti/GIST_ID/raw/plugins.json"
   ]
 }
