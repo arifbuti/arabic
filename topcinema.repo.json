@@ -1,0 +1,8 @@
+{
+  "name": "TopCinema Repo",
+  "description": "CloudStream plugin for web6.topcinema.cam (أفلام ومسلسلات بث مباشر)",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://your-plugins-host.com/plugins.json"
+  ]
+}
