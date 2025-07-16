@@ -1,0 +1,8 @@
+{
+  "name": "TopCinema Repo",
+  "description": "CloudStream plugin for web6.topcinema.cam",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://github.com/arifbuti/topcinema-plugin/raw/main/plugins.json"
+  ]
+}

@@ -1,0 +1,10 @@
+[
+  {
+    "id": "topcinema",
+    "name": "TopCinema",
+    "version": "1.0.0",
+    "url": "https://github.com/arifbuti/topcinema-plugin/raw/main/topcinema.cs3",
+    "description": "بث مباشر من web6.topcinema.cam",
+    "lang": "ar"
+  }
+]
